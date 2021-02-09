@@ -4,9 +4,9 @@
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
-This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in WiDS2021 in Saudi Arabia.
+**This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in WiDS2021 in Saudi Arabia.**
 
-## Description:
+## Overview:
 
 The movement toward a clinical research culture that supports data sharing and open-source has important implications in the post-COVID era. This workshop will provide you with the knowledge and tools necessary to apply your new skill set immediately to collaborate with other scientists in any project. In the beginning, the workshop will outline briefly how to integrate software and reports using R Markdown. It will then describe how to develop and collaborate on code with another scientist, keep code synchronised, and solve conflicts that arise from that collaboration using version control. This is crucially important when working with healthcare software, libraries, tools, and resources, and it will be an interactive, hands-on session.
 
