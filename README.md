@@ -1,4 +1,4 @@
-# Collaborating in Open Data Science Projects
+# Collaborating on an Open Data Science Projects
 
 [![hackmd-github-sync-badge](https://hackmd.io/e6NDSXeWSYSRKqdgDoZRLw/badge)](https://hackmd.io/e6NDSXeWSYSRKqdgDoZRLw)
 
