@@ -7,7 +7,7 @@ questions:
 objectives:
 - Understand the Open Science movement
 keypoints:
-- "Open Science practices is important for reproducibility."
+- "Open Science practices is critical to maintain transparency in the research conducted such that the results obtained can be reproduced "
 ---
 
 ## The Reproducibility Crisis
