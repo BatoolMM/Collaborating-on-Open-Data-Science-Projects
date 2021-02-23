@@ -15,14 +15,12 @@ More than 70% of researchers have tried and failed to reproduce another scientis
 
 The data reveal sometimes-contradictory attitudes towards reproducibility. Although 52% of those surveyed agree that there is a significant 'crisis' of reproducibility, less than 31% think that failure to reproduce published results means that the result is probably wrong, and most say that they still trust the published literature.
 
-<img src="/assets/img/reproducibility-graphic-online1.jpeg" class="center" width="350px">
-<img src="../img/reproducibility-graphic-online1.jpeg" class="center" width="800px" />
+<img src="../img/reproducibility-graphic-online1.jpeg" class="center" width="500px" />
 
 
 Failing to reproduce results is a rite of passage, says Marcus Munafo, a biological psychologist at the University of Bristol, UK, who has a long-standing interest in scientific reproducibility. When he was a student, he says, “I tried to replicate what looked simple from the literature, and wasn't able to. Then I had a crisis of confidence, and then I learned that my experience wasn't uncommon.”
 
-<img src="/assets/img/reproducibility-graphic-online3.jpg" class="center" width="350px">
-<img src="../img/reproducibility-graphic-online3.jpg" class="center" width="800px" />
+<img src="../img/reproducibility-graphic-online3.jpg" class="center" width="500px" />
 
 
 The challenge is not to eliminate problems with reproducibility in published work. Being at the cutting edge of science means that sometimes results will not be robust, says Munafo. “We want to be discovering new things but not generating too many false leads.”
