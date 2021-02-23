@@ -7,7 +7,7 @@ questions:
 objectives:
 - Understand the Open Science movement
 keypoints:
-- "Open Science practices is critical to maintain transparency in the research conducted such that the results obtained can be reproduced "
+- "Open Science practices aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable, and accessible to society "
 ---
 
 ## The Reproducibility Crisis
