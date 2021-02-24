@@ -120,7 +120,7 @@ Join existing communities locally and online, and start local chapters with frie
 
 Some ideas:
 
-- Saudi Data Community: It was just established recentely. It's a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. 
+- Saudi Open Science Community : It was just established recentely. It's a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. 
 
 - [RLadies](https://rladies.org/). Informal but efficient communities centered on R data analysis meant to be inclusive and supportive. The [RLadies Saudi Arabia](https://www.meetup.com/rladies-amsterdam/) chapter. Every month, there is a free workshop!
 
