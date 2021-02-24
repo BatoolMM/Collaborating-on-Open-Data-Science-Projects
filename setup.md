@@ -69,3 +69,9 @@ At the end of this set-up, you should have installed and created an account on G
 
 
 {% include links.md %}
+
+### Download the resources:
+
+<a href="data/tidytuesday.Rmd" download>The RMarkdown file for the 1st practical</a>
+
+
