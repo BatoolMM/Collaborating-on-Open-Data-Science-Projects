@@ -3,7 +3,7 @@ title: "The reproducibility crisis and open science"
 teaching: 25
 exercises: 0
 questions:
-- What is the reproducility crisi and how can be solved
+- What is the reproducility crisi and how can be solved?
 objectives:
 - Understand the Open Science movement
 keypoints:
