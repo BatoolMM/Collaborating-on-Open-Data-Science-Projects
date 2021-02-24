@@ -2,8 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/337206479.svg)](https://zenodo.org/badge/latestdoi/337206479)
 
-[![hackmd-github-sync-badge](https://hackmd.io/e6NDSXeWSYSRKqdgDoZRLw/badge)](https://hackmd.io/e6NDSXeWSYSRKqdgDoZRLw)
-
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
 **This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in WiDS2021 in Saudi Arabia.**
