@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Open Science"
-teaching: 10
+title: "The reproducibility crisis and open science"
+teaching: 25
 exercises: 0
 questions:
 - What is the reproducility crisi and how can be solved
@@ -22,8 +22,11 @@ Failing to reproduce results is a rite of passage, says Marcus Munafo, a biologi
 
 <img src="../img/reproducibility-graphic-online3.jpg" class="center" width="500px" />
 
-
 The challenge is not to eliminate problems with reproducibility in published work. Being at the cutting edge of science means that sometimes results will not be robust, says Munafo. “We want to be discovering new things but not generating too many false leads.”
+
+**The complete section is taken directly without any modifications from [this aricle](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) which is cited below:**
+
+Baker M. 1,500 scientists lift the lid on reproducibility. Nature. 2016 May 26;533(7604):452-4. [doi: 10.1038/533452a. PMID: 27225100.](https://pubmed.ncbi.nlm.nih.gov/27225100/)
 
 ## Open Science
 
@@ -40,8 +43,6 @@ The research process typically has the following form: data is collected and the
 - _Open Hardware_: Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
 - _Open Access_: Making all published outputs freely accessible for maximum use and impact.
 - _Open Notebooks_: An emerging practice, documenting and sharing the experimental process of trial and error.
-
-These elements are expanded upon in this chapter.
 
 Open Science is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, for example:
 
@@ -65,11 +66,9 @@ There are five main schools of thought motivating open practices to benefit rese
 
 Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect by increasing the discoverability and visibility of one's work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
 
-All the previous text is taken from [here](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) and [here](https://the-turing-way.netlify.app/reproducible-research/open.html)
+**The last two secions were taken directly without any modifications from [the turing way](https://the-turing-way.netlify.app/reproducible-research/open.html) which is cited below:**
 
 The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
-
-
 
 {% include links.md %}
 
