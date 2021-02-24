@@ -1,11 +1,13 @@
 - # WiDS  | Meetings
 
+[![hackmd-github-sync-badge](https://hackmd.io/e6NDSXeWSYSRKqdgDoZRLw/badge)](https://hackmd.io/e6NDSXeWSYSRKqdgDoZRLw)
+
 ###### tags: `WiDS` `Meeting`
 > 
 :::info
-- **Meeting:** Meeting with Dalya
+- **Meeting:** Meeting with Dalia
 - **Date:** 23-01-2021
-
+- This notes describes the first meeting to design the workshop with WiDs, more details in the [HackMD file](https://hackmd.io/e6NDSXeWSYSRKqdgDoZRLw)
 :::
 
 :dart: The Workshop Description
@@ -46,3 +48,5 @@ The movement toward a clinical research culture that supports data sharing and o
 - [ ] *  I find it hard to estimate the time without knowing if it'll be interactive or not. Interactive session tends to takes more time. **My initial estimate is 4 hours on the 24th of Feb (1:00pm to 5:pm), but it might change if we end up using Atta platform.** 
 * Hopefully, it will be interactive as it's up to you to permit the video, voice, and screen sharing.
 **Please free to add comments or call me/text me if you have any questions.**
+
+More details about the meetings is [here](https://hackmd.io/e6NDSXeWSYSRKqdgDoZRLw)
