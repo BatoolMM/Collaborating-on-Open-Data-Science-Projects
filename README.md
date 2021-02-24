@@ -1,7 +1,5 @@
 # Collaborating on Open Data Science Projects
 
-[![DOI](https://zenodo.org/badge/337206479.svg)](https://zenodo.org/badge/latestdoi/337206479)
-
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
 **This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in WiDS2021 in Saudi Arabia.**
