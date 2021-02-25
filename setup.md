@@ -59,6 +59,10 @@ $ git config --list
 ## Create GitHub Account <a name="github_account"></a>
 Create an account on [github.com] if you do not have one already. Remember the user name and password. If you are making a GitHub account, please remember that your username should be *recognizable* and *professional*.
 
+### Download the resources:
+
+<a href="file/molecool" download>The RMarkdown file for the 1st practical</a>
+
 
 ### Conclusion
 At the end of this set-up, you should have installed and created an account on GitHub, and configured git.
