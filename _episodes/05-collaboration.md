@@ -151,7 +151,7 @@ $ cd periodic-table
 
 Now, when we visualize what our repositories look like, we have a copy of our fork on our local machine. 
 
-<center><img src=".../img/github2.png"></center>
+<center><img src="../img/github2.png"></center>
 
 In a real development situation, we would also create a new `conda` environment for developing in this repository.
 
@@ -223,15 +223,15 @@ When creating a new feature, it is a good practice to develop each feature on a 
 
 Before branching, imagine a git commit history that looks like this. In the diagram below, each circle represents a git commit. There have been two commits, and the HEAD is currently after commit 2.
 
-<center><img src='../img/github4.png'></center>
+<center><img src= '../img/github5.png'></center>
 
 After we have created a new branch and checked it out, we can imagine our git history looking like this. The sodium branch 'branches' or starts from the point where we used the git branch command. 
 
-<center><img src = '../img/github5.png'></center>
+<center><img src = '../img/github6.png'></center>
 
 Now, when we make a commit on the `sodium` branch, our changes will continue from this point, leaving the main branch unchanged. Note that we have not yet made a commit, but this diagram is for illustrative purposes.
 
-<center><img src = "../img/github6.png"></center>
+<center><img src = "../img/github7.png"></center>
 
 ## The importance of branching
 
@@ -305,7 +305,7 @@ $ git push origin sodium
 
 Here, the last line indicates that we are pushing to `origin` (our fork) to the `sodium` branch. The branch name you type in place of sodium should match the name of the branch you are working on. If you view your repository on GitHub, you should now see that you have another branch in addition to the main branch.
 
-<center><img src=".../img/github7.png"></center>
+<center><img src="../img/github8.png"></center>
 
 As part of the output from this command, you should see the following:
 
@@ -336,7 +336,7 @@ Anyone can see Pull Requests on public repositories. Try reviewing a few pull re
 
 Once your changes have been accepted, upstream will have those changes on the `main` branch. This is indicated in the figure below through the change in color of the the word 'main'. 
 
-<center><img src="../img/github8.png"></center>
+<center><img src="../img/github9.png"></center>
 
 ## Incorporating upstream changes to local
 
@@ -378,7 +378,9 @@ $ git push origin --delete sodium
 ~~~
 {: .bash}
 
-<center><img src=".../img/github9.png"></center>
+<center><img src="../img/github10.png"></center>
+
+**These materials were taken directly from [Python Package Best Practices lesson](http://education.molssi.org/python-package-best-practices/02-git/index.html) by the [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/).**
 
 ## More Tutorials
 If you want more `git`, see the following tutorials.
