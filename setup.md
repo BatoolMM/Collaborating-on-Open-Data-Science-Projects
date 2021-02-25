@@ -61,7 +61,7 @@ Create an account on [github.com] if you do not have one already. Remember the u
 
 ### Download the resources:
 
-<a href="file/molecool" download>The `molcool` folder for the `git` practical</a>
+<a href="file/molecool.zip" download>Download the `molecool` folder for the `git` practical</a> and then unzip the file.
 
 
 ### Conclusion

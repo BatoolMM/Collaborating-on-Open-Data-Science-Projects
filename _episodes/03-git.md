@@ -55,7 +55,7 @@ First, use a terminal to `cd` into the top directory of the local repository.
 
 In order for git to keep track of your project, or any changes in your project, you must first tell it that you want it to do this. You must manually create check-points in your project if you wish to have points to return to. 
 
-The `molcool` folder was created with a programme called CookieCutter, which initialize `git` automatically. However, if you are creating your own directory without CookieCutter, you should first initialize your project (ie tell git that you were working on a project) using the command `git init`. 
+The `molecool` folder was created with a programme called CookieCutter, which initialize `git` automatically. However, if you are creating your own directory without CookieCutter, you should first initialize your project (ie tell git that you were working on a project) using the command `git init`. 
 
 CookieCutter, which was used to create `molcool`, it initialized the use of `git` for us, added our files, and made a commit (how convenient!). We can see this by typing the following into the terminal on Linux or Mac. More information about CookieCutter is included [here](https://github.com/MolSSI/cookiecutter-cms).
 

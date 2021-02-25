@@ -48,7 +48,7 @@ Now if you refresh the GitHub webpage you should be able to see all of the new f
 
 ## Working With Multiple Repositories
 
-One of the most potentially frustrating problems in software development is keeping track of all the different copies of the code.
+One of the most potentially frustrating problems in data analysis and software development is keeping track of all the different copies of the code.
 For example, we might start a project on a local desktop computer, switch to working on a laptop during a conference, and then do performance optimization on a supercomputer.
 In ye olden days, switching between computers was typically accomplished by copying files via a USB drive, or with ssh, or by emailing things to oneself.
 After copying the files, it was very easy to make an important change on one computer, forget about it, and go back to working on the original version of the code on another computer.
@@ -615,6 +615,9 @@ Clicking them reveals how they changed the code.
 The "Issues" tab lets you create discussions about bugs, performance limitations, feature requests, or ongoing work that are shared with everyone else who is working on the project.
 Try filling out a quick issue now.
 Then comment and close the issue.
+
+
+**These materials were taken directly from [Python Package Best Practices lesson](http://education.molssi.org/python-package-best-practices/02-git/index.html) by the [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/).**
 
 
 ## More Tutorials
