@@ -153,7 +153,7 @@ earlier in this lesson.
 <img src="../img/zenodo2.png" width="600px" style="border:2px solid #000000;">
 
 - If it is not there, you may need to "Sync now ...":
-<img src="../img/zenodo3.png" width="400px" style="border:2px solid #000000;">
+<img src="../img/zenodo3.png" width="600px" style="border:2px solid #000000;">
 
 ---
 
@@ -162,7 +162,7 @@ earlier in this lesson.
 - Go back to the webpage of your GitHub repository
 - Click on "releases":
 
-<img src="../img/zenodo4.png" width="800px" style="border:2px solid #000000;">
+<img src="../img/zenodo4.png" width="600px" style="border:2px solid #000000;">
 
 - Fill out the form and click on "Publish release":
 
@@ -187,6 +187,6 @@ in your README that informs them about and links to the preserved dataset/code o
 
 - Try to add such a badge to your README for the exercise repository:
 
-<img src="../img/zenodo8.png" width="800px" style="border:2px solid #000000;">
+<img src="../img/zenodo8.png" width="600px" style="border:2px solid #000000;">
 
 **All the materials for this Zenodo section is taken directly from the [Collaborating and sharing using GitHub without command line lesson](https://coderefinery.github.io/github-without-command-line/doi/) by [coderefinery](https://coderefinery.org/).**
