@@ -5,12 +5,12 @@ exercises: 60
 topics:
 - "The Crisis of Confidence"
 - "Open and Reproducible Research Practices"
-- ""
+questions:
+- How data scientist can apply open science practices in their work?
 objectives:
 - "To understand the importance to share data and code"
 - "To value code and data for what they are: the true foundations of any scientific statement."
 - "To promote good practices for open & reproducible science"
-
 keypoints:
 - "Make your data and code available to others"
 - "Make your analyses reproducible"
@@ -19,7 +19,7 @@ keypoints:
 
 ## The Crisis of Confidence
 
-The crisis of confidence poses a general problem across most empirical research disciplines and is characterized by an alarmingly low rate of key findings that are reproducible (e.g., Fidler et al. [2017](https://academic.oup.com/bioscience/article-abstract/67/3/282/2900173); Open Science Collaboration, [2015](https://science.sciencemag.org/content/349/6251/aac4716.short); Poldrack et al., [2017](https://www.nature.com/nrn/journal/v18/n2/abs/nrn.2016.167.html); Wager et at., [2009](https://www.sciencedirect.com/science/article/pii/S1053811908012111)). A low reproducibility rate can arise when scientists do not respect the empirical cycle. Scientific research methods for experimental research are based on the hypothetico-deductive approach (see e.g., de Groot, [1969](https://books.google.nl/books?hl=en&lr=&id=6hiBDwAAQBAJ&oi=fnd&pg=PR5&dq=de+groot+methologie&ots=GR5-EAw6pB&sig=Ej1MJgvsN1bHiQHio__ibrO4fkA&redir_esc=y#v=onepage&q=de%20groot%20methologie&f=false); Peirce, [1878](https://www.taylorfrancis.com/books/e/9781315823126/chapters/10.4324/9781315823126-7)), which is illustrated in Figure 1.
+As we discussed in the first part of the lesson, the crisis of confidence poses a general problem across most empirical research disciplines and is characterized by an alarmingly low rate of key findings that are reproducible (e.g., Fidler et al. [2017](https://academic.oup.com/bioscience/article-abstract/67/3/282/2900173); Open Science Collaboration, [2015](https://science.sciencemag.org/content/349/6251/aac4716.short); Poldrack et al., [2017](https://www.nature.com/nrn/journal/v18/n2/abs/nrn.2016.167.html); Wager et at., [2009](https://www.sciencedirect.com/science/article/pii/S1053811908012111)). A low reproducibility rate can arise when scientists do not respect the empirical cycle. Scientific research methods for experimental research are based on the hypothetico-deductive approach (see e.g., de Groot, [1969](https://books.google.nl/books?hl=en&lr=&id=6hiBDwAAQBAJ&oi=fnd&pg=PR5&dq=de+groot+methologie&ots=GR5-EAw6pB&sig=Ej1MJgvsN1bHiQHio__ibrO4fkA&redir_esc=y#v=onepage&q=de%20groot%20methologie&f=false); Peirce, [1878](https://www.taylorfrancis.com/books/e/9781315823126/chapters/10.4324/9781315823126-7)), which is illustrated in Figure 1.
 
      
 <figure>
@@ -41,13 +41,7 @@ In this section, we focus on open and reproducible research practices that resea
 
 ### Data Sharing
 
-International collaboration is a cornerstone for the field of ecology and thus the documentation, and archiving of large volume of (multinational) data and metadata is becoming increasingly important. Even though many scientists are reluctant to make their data publicly available, data sharing can increase the impact of their research. For instance, in cancer research, studies for which data were publicly available received higher citation rates compared to studies for which data were not available (Piwowar, Day, & Fridsma, [2007](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308)). This is due to the fact that other researchers can build directly on existing data, analyze them using utilize novel statistical techniques and modelling tools, and mine them from new perspectives (Carpenter et al., [2009](https://academic.oup.com/bioscience/article-abstract/59/8/699/256190)).
-
-### Reproducibility of Statistical Results
-
-One of the core scientific values is reprodicibility. The reproducibility of experimental designs and methods allows the scientific community to determine the validity of alledged effects.
-
-The benefit of publishing fully reporducible statistical results (including the reporting of all data preprocessing steps) is that collaborators, peer-reviewers, and independent researchers can repeat the analysis --from raw data and to the creation of relevant figures and tables-- and verify the correctness of the results. Scientific articles are not free from typographical mistakes and it has been shown that the prevalence for statistical reporting errors is shockingly high. For instance, Nuijten et al. ([2015](https://link.springer.com/article/10.3758/s13428-015-0664-2)) examined the prevalence of statistical reporting errors in the field of psychology and found that almost 50% or all psychological articles papers contain at least one error. These reporting errors can lead to erroneous substantive conclusions and influence, for instance, the results of meta-analyses. Most importantly, however, is that these errors are preventable. Through tools, such as `git` and *RMarkdown*, researchers can automate their statistical reporting and produce fully reproducible research papers.
+International collaboration is essential and thus the documentation, and archiving of large volume of (multinational) data and metadata is becoming increasingly important. Even though many scientists are reluctant to make their data publicly available, data sharing can increase the impact of their research. For instance, in cancer research, studies for which data were publicly available received higher citation rates compared to studies for which data were not available (Piwowar, Day, & Fridsma, [2007](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308)). This is due to the fact that other researchers can build directly on existing data, analyze them using utilize novel statistical techniques and modelling tools, and mine them from new perspectives (Carpenter et al., [2009](https://academic.oup.com/bioscience/article-abstract/59/8/699/256190)).
 
 ### Preregistration and Registered Reports
 
@@ -57,19 +51,13 @@ Over the last years, preregistration has quickly gained popularity and has estab
 
 Preregistration is encouraged in the transparency and openness promotion (TOP) guidelines (Nosek et al., [2015](https://science.sciencemag.org/content/348/6242/1422.short) and represents the standard for the analysis of clinical trials; for instance, in the New England Journal of Medicine —the world’s highest impact journal— the registration of Clinical Trials is a prerequisite for publication.
 
-### Challenges
+### Reproducibility of Statistical Results
 
-- Data sharing: ethical concerns (share data that harm others, e.g., lowering property values or private data that are collected, for instance, through satellites); Solution = share anonimized data, policies need to be developed
-- Preregistration: Loosing the flexibility to adapt analysis plans to unexpected peculiarities of the data; Solution = data blinding, which is standard practice in astrophysics)
-- Reproducibility: Additional costs associated with the time it takes to adequatly annotate and archive the code so that independent researchers can understand and reproduce fugures and results; Solution = reproducible workflow, for instance by working in Git and Rmarkdown
+One of the core scientific values is reprodicibility. The reproducibility of experimental designs and methods allows the scientific community to determine the validity of alledged effects.
 
-### Potential Exercises on this Topic
+The benefit of publishing fully reporducible statistical results (including the reporting of all data preprocessing steps) is that collaborators, peer-reviewers, and independent researchers can repeat the analysis --from raw data and to the creation of relevant figures and tables-- and verify the correctness of the results. Scientific articles are not free from typographical mistakes and it has been shown that the prevalence for statistical reporting errors is shockingly high. For instance, Nuijten et al. ([2015](https://link.springer.com/article/10.3758/s13428-015-0664-2)) examined the prevalence of statistical reporting errors in the field of psychology and found that almost 50% or all psychological articles papers contain at least one error. These reporting errors can lead to erroneous substantive conclusions and influence, for instance, the results of meta-analyses. Most importantly, however, is that these errors are preventable. Through tools, such as `git` and *RMarkdown*, researchers can automate their statistical reporting and produce **fully reproducible research papers.**
 
-Ideas for exercises are taken from [Sarafoglou, A., Hoogeveen, S., Matzke, D., & Wagenmakers, E.-J. (2019). Teaching Good Research Practices: Protocol of a Research Master Course. Psychology Learning & Teaching](https://doi.org/10.1177/1475725719858807). This article describes the full course catalogue of the Research Master course 'Good Research Practices' which is taught at the University of Amsterdam. The description of in-class assignments can be found here: https://osf.io/5xjfh/
-
-Potential in-class assignments are:
-- Ivestigate the Transparency of Empirical Articles: https://osf.io/p7xtj/
-- Hidden Flexibility in Data Analysis: https://osf.io/y4h25/
+**The next section will explain how you can use version control and `git` to track your work history and collaborate with other researchers.**
 
 ## Three messages
 
@@ -120,12 +108,13 @@ Join existing communities locally and online, and start local chapters with frie
 
 Some ideas:
 
-- Saudi Open Science Community : It was just established recentely. It's a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. 
+- [Saudi Open Science Community](https://zenodo.org/communities/1231231664/?page=1&size=20).  This community aims to provide a place where newcomers and experienced peers interact and inspire each other to embed open science practices and values in their workflows. They are also encouraged to give feedback on policies, infrastructures and support services. It was established recently in Feb 2021.
 
-- [RLadies](https://rladies.org/). Informal but efficient communities centered on R data analysis meant to be inclusive and supportive. The [RLadies Saudi Arabia](https://www.meetup.com/rladies-amsterdam/) chapter. Every month, there is a free workshop!
+- [RLadies](https://rladies.org/). Informal but efficient communities centered on R data analysis meant to be inclusive and supportive. There is a local chapter for [RLadies Saudi Arabia (Dammam)](https://www.meetup.com/rladies-amsterdam/) where at least one workshop is delivered each month.
+
+- [_The turing way_](https://the-turing-way.netlify.app/welcome). _The Turing Way_ is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science. The book has a guide for reproducibility, covering version control, testing, and continuous integration.
 
 These meetups can be for skill-sharing, showcasing how people work, or building community so you can troubleshoot together. They can be an informal "hacky hour" at a cafe or pub!
 
-This a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services.  
 
-The materials is taken from [here](https://carpentries-incubator.github.io/open-science-with-r/09-champion/index.html)
+**All the materials for this episode is taken directly (with minor changes) from the [Introduction to Open Data Science with R workshop](https://carpentries-incubator.github.io/open-science-with-r/09-champion/index.html) in the [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals/#the-carpentries-incubator). At the time of completing this workshop, [Marc Gallland](m.galland@uva.nl), [Tijs Bliek](M.Bliek@uva.nl) and [Stijn Van Hoey](stijnvanhoey@gmail.com) are listed as the authors of the lesson in The Carpentries Incubator.**
