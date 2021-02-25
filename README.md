@@ -2,7 +2,7 @@
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
-**This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in WiDS2021 in Saudi Arabia.**
+**This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in Women in Data Science (WiDS2021 Saudi Arabia).**
 
 ## Overview:
 
@@ -12,7 +12,7 @@ This lesson will provide you with the knowledge and tools necessary to apply you
 
 ## Contributing
 
-We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
+We welcome all contributions to improve the lesson! The maintainer will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
 
 We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
@@ -20,7 +20,7 @@ the [more detailed guidelines][lesson-example] on proper formatting, ways to ren
 how to write new episodes.
 
 
-## Maintainer(s)
+## Maintainer
 
 Current maintainers of this lesson is Batool Almarzouq
 
