@@ -133,10 +133,6 @@ Or using GitHub Desktop:
 Alternatively we can also practice this with one of the repositories we created
 earlier in this lesson.
 
-Here I just created a new one:
-
-<img src="/img/zenodo1.png" width="800px" style="border:2px solid #000000;">
-
 ---
 
 ## Step 2: Activate the repository on Zenodo (sandbox)
@@ -150,14 +146,14 @@ Here I just created a new one:
 
 - Visit <https://sandbox.zenodo.org/account/settings/github/>:
 
-<img src="img/zenodo2.png" width="600px" style="border:2px solid #000000;">
+<img src="../img/zenodo1.png" width="600px" style="border:2px solid #000000;">
 
 - Select the repository you wish to preserve:
 
-<img src="img/zenodo3.png" width="600px" style="border:2px solid #000000;">
+<img src="../img/zenodo2.png" width="600px" style="border:2px solid #000000;">
 
 - If it is not there, you may need to "Sync now ...":
-<img src="{{ site.baseurl }}/img/doi/sync-now.png" width="400px" style="border:2px solid #000000;">
+<img src="../img/zenodo3.png" width="400px" style="border:2px solid #000000;">
 
 ---
 
@@ -166,17 +162,17 @@ Here I just created a new one:
 - Go back to the webpage of your GitHub repository
 - Click on "releases":
 
-<img src="img/zenodo4.png" width="800px" style="border:2px solid #000000;">
+<img src="../img/zenodo4.png" width="800px" style="border:2px solid #000000;">
 
 - Fill out the form and click on "Publish release":
 
-<img src="img/zenodo5.png" width="600px" style="border:2px solid #000000;">
+<img src="../img/zenodo5.png" width="600px" style="border:2px solid #000000;">
 
 - Finally reload <https://sandbox.zenodo.org/account/settings/github/>
 - It can take few moments for the project to be deposited
 - After a while it turns to this:
 
-<img src="img/zenodo6.png" width="600px" style="border:2px solid #000000;">
+<img src="../img/zenodo6.png" width="600px" style="border:2px solid #000000;">
 
 ---
 
@@ -187,10 +183,10 @@ in your README that informs them about and links to the preserved dataset/code o
 
 - On Zenodo, click on the badge (last figure) which opens up:
 
-<img src="img/zenodo7.png" width="600px" style="border:2px solid #000000;">
+<img src="../img/zenodo7.png" width="600px" style="border:2px solid #000000;">
 
 - Try to add such a badge to your README for the exercise repository:
 
-<img src="img/zenodo8.png" width="800px" style="border:2px solid #000000;">
+<img src="../img/zenodo8.png" width="800px" style="border:2px solid #000000;">
 
 **All the materials for this Zenodo section is taken directly from the [Collaborating and sharing using GitHub without command line lesson](https://coderefinery.github.io/github-without-command-line/doi/) by [coderefinery](https://coderefinery.org/).**
