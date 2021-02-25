@@ -58,6 +58,6 @@ A list of contributors to the lesson can also be found in [AUTHORS](AUTHORS)
 
 To cite this lesson, please use:
 
-Batool Almarzouq. (2021, February). Collaborating on Open Data Science Projects (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4561139
+> Batool Almarzouq. (2021, February). Collaborating on Open Data Science Projects (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4561139
 
 [lesson-example]: https://carpentries.github.io/lesson-example
