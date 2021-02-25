@@ -29,7 +29,7 @@ Current maintainers of this lesson is Batool Almarzouq
 
 ## Authors
 
-**None of these materials prepared by the repository owener. It's a collection of lesson collected from:**
+**None of these materials was prepared by the repository owner. It's a collection of lessons taken directly without any modification from the following authors:**
 
 - Greg Wilson: "Software Carpentry: Getting Scientists to Write Better
 Code by Making Them More Productive".  Computing in Science &
