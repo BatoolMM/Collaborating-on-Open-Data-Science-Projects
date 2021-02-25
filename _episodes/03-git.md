@@ -17,7 +17,7 @@ keypoints:
 >
 > - Created GitHub account (described in set-up)
 > - Configured git (described in set-up)
-> - The Python package created in Episode 1.
+> - The `molecool` folder that we installed in the set-up
 {: .prereq}
 
 ## Version Control
@@ -40,22 +40,24 @@ team.
 >
 {: .callout}
 
-MolSSI recommends using the software `git` for version control, and [GitHub] as a hosting service, though there are other options.
+We recommends using the software `git` for version control, and [GitHub] as a hosting service, though there are other options.
 
 Recommended Hosting Service: [GitHub]  
 Other hosting Services: [GitLab], [BitBucket]
 
 ## Making Commits
 
-You should have git installed and configured from the [setup] instructions.
+You should have git installed and configured from the [setup](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/setup.html) instructions.
 
-In this section, we are going to  edit files in the Python package that we created earlier, and use `git` to track those changes.
+In this section, we are going to edit files in the `molecool` folder that we installed in the set-up, and use `git` to track those changes.
 
 First, use a terminal to `cd` into the top directory of the local repository.
 
-In order for git to keep track of your project, or any changes in your project, you must first tell it that you want it to do this. You must manually create check-points in your project if you wish to have points to return to. If you were not using the CookieCutter, you would first have to initialize your project (ie tell git that you were working on a project) using the command `git init`. 
+In order for git to keep track of your project, or any changes in your project, you must first tell it that you want it to do this. You must manually create check-points in your project if you wish to have points to return to. 
 
-When we ran the CMS CookieCutter, it actually initialized the use of `git` for us, added our files, and made a commit (how convenient!). We can see this by typing the following into the terminal on Linux or Mac
+The `molcool` folder was created with a programme called CookieCutter, which initialize `git` automatically. However, if you are creating your own directory without CookieCutter, you should first initialize your project (ie tell git that you were working on a project) using the command `git init`. 
+
+CookieCutter, which was used to create `molcool`, it initialized the use of `git` for us, added our files, and made a commit (how convenient!). We can see this by typing the following into the terminal on Linux or Mac. More information about CookieCutter is included [here](https://github.com/MolSSI/cookiecutter-cms).
 
 ~~~
 $ ls -la
@@ -731,6 +733,7 @@ $ git branch -d zen
 > {: .solution}
  {: .challenge}
 
+**This materials were taken directly from [Python Package Best Practices lesson](http://education.molssi.org/python-package-best-practices/02-git/index.html) by by the [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/).**
 
 ## More Tutorials
 If you want more `git`, see the following tutorials.
