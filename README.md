@@ -4,7 +4,7 @@
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
-**This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in Women in Data Science (WiDS2021 Saudi Arabia).**
+**This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in Women in Data Science (WiDS2021 Saudi Arabia) on the 24th of Feb**
 
 ## Overview:
 
