@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/337206479.svg)](https://zenodo.org/badge/latestdoi/337206479)
+
 # Collaborating on Open Data Science Projects
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
@@ -54,7 +56,8 @@ A list of contributors to the lesson can also be found in [AUTHORS](AUTHORS)
 
 ## Citation
 
-[FIXME] add the Zenodo
-To cite this lesson, please consult with [CITATION](CITATION)
+To cite this lesson, please use:
+
+Batool Almarzouq. (2021, February). Collaborating on Open Data Science Projects (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4561139
 
 [lesson-example]: https://carpentries.github.io/lesson-example
