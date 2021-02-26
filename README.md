@@ -4,7 +4,7 @@
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
-**This workshop will be delivered by Batool Almarzouq as part of Datathon workshop in Women in Data Science (WiDS2021 Saudi Arabia) on the 24th of Feb**
+**This workshop was delivered by Batool Almarzouq as part of Datathon workshop in Women in Data Science (WiDS2021 Saudi Arabia) on the 24th of Feb**
 
 ## Overview:
 
@@ -48,7 +48,7 @@ July 2013.
 
 - The materials for the license section is taken directly from the [Version Control with Git lesson](https://swcarpentry.github.io/git-novice/11-licensing/index.html) by [the software carpentry](https://software-carpentry.org/).
 
-- The materials for this Zenodo section is taken directly from the [Collaborating and sharing using GitHub without command line lesson](https://coderefinery.github.io/github-without-command-line/doi/) by [coderefinery](https://coderefinery.org/).**
+- The materials for Zenodo section is taken directly from the [Collaborating and sharing using GitHub without command line lesson](https://coderefinery.github.io/github-without-command-line/doi/) by [coderefinery](https://coderefinery.org/).**
 
 - The materials for "Intro to Version Control with Git, Using GitHub,  Code Collaboration using GitHub" were taken directly from [Python Package Best Practices lesson](http://education.molssi.org/python-package-best-practices/02-git/index.html) by the [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/).**
 
