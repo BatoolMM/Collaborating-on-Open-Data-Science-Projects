@@ -66,7 +66,7 @@ There are five main schools of thought motivating open practices to benefit rese
 
 Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect by increasing the discoverability and visibility of one's work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
 
-**The last two secions were taken directly without any modifications from [the turing way](https://the-turing-way.netlify.app/reproducible-research/open.html) which is cited below:**
+**The last two sections were taken directly without any modifications from [_the turing way_book](https://the-turing-way.netlify.app/reproducible-research/open.html) which is cited below:**
 
 The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
 
