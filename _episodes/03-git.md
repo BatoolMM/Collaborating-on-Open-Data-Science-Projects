@@ -735,6 +735,9 @@ $ git branch -d zen
 
 **This materials were taken directly from [Python Package Best Practices lesson](http://education.molssi.org/python-package-best-practices/02-git/index.html) by by the [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/).**
 
+> Nash, J., Altarawy, D., Barnes, T., Ellis, S., Marin Rimoldi, E., Pritchard, B., & Smith, D. (2018). 
+Best Practices in Python Package Development (Version 2020.12.0). The Molecular Sciences Software Institute. https://doi.org/10.34974/2H9M-0E15
+
 ## More Tutorials
 If you want more `git`, see the following tutorials.
 
