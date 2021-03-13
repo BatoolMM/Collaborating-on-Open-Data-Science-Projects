@@ -40,6 +40,9 @@ July 2013.
 
 > - Baker M. 1,500 scientists lift the lid on reproducibility. Nature. 2016 May 26;533(7604):452-4. [doi: 10.1038/533452a. PMID: 27225100.](https://pubmed.ncbi.nlm.nih.gov/27225100/)
 
+> Nash, J., Altarawy, D., Barnes, T., Ellis, S., Marin Rimoldi, E., Pritchard, B., & Smith, D. (2018). 
+Best Practices in Python Package Development (Version 2020.12.0). The Molecular Sciences Software Institute. https://doi.org/10.34974/2H9M-0E15
+
 > - The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
 
 > - The materials for the open science section section is taken directly from the [Open Research in the _turing way_](https://the-turing-way.netlify.app/reproducible-research/open.html).
