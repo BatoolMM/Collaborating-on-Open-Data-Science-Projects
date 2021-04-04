@@ -27,7 +27,7 @@ This is a good way to introduce yourself
 and to meet some of our community members.
 
 1.  If you do not have a [GitHub][github] account,
-    you can [send us comments by email][email].
+    you can [send us comments by email][batool@liverpool.ac.uk].
     However,
     we will be able to respond more quickly if you use one of the other methods described below.
 
@@ -46,8 +46,8 @@ and to meet some of our community members.
 ## Where to Contribute
 
 1.  If you wish to change this lesson,
-    please work in <https://github.com/swcarpentry/FIXME>,
-    which can be viewed at <https://swcarpentry.github.io/FIXME>.
+    please work in <https://github.com/BatoolMM/Collaborating-on-Open-Data-Science-Projects>,
+    which can be viewed at <https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/>.
 
 2.  If you wish to change the example lesson,
     please work in <https://github.com/carpentries/lesson-example>,
